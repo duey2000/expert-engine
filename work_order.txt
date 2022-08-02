@@ -1,0 +1,10 @@
+floor,service,details,submitted_by,date_submitted,time_submitted,date_completed,time_completed
+Basement,Restroom Services,towels need replaced in locker room,Null,Null,Null,Null,Null
+1st Floor,Trash/Recycling,trash by restrooms is overflowing,Null,Null,Null,Null,Null
+6th Floor,Lightbulb replacement,conference room 6SE has a light out,Null,Null,Null,Null,Null
+4th Floor,Heating/Cooling,it is REALLY HOT UP HERE!,Null,Null,Null,Null,Null
+6th Floor,Heating/Cooling,the board room is freezing,Null,2022-07-20,17:49:26.432775,Null,Null
+3rd Floor,Trash/Recycling,recycling was not picked up last night on 3 south,Null,2022-07-21,08:49:00,Null,Null
+1st Floor,,,Null,2022-07-21,17:02:00,Null,Null
+1st Floor,Trash/Recycling,,Null,2022-07-21,17:03:00,Null,Null
+1st Floor,Heating/Cooling,its freezing up here,Null,2022-07-21,17:03:00,Null,Null

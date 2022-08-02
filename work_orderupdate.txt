@@ -1,0 +1,127 @@
+floor,service,details,submitted_by,date_submitted,time_submitted,date_completed,time_completed
+Basement,Restroom Services,mess in the men's room,Null,7/19/2022,10:00:00,7/19/2022,10:15:00
+Basement,Restroom Services,mess in the women's room,Null,Null,10:15:00,7/20/2022,10:40:00
+Basement,Restroom Services,out of toilet paper,Null,7/21/2022,10:40:00,7/21/2022,11:00:00
+Basement,Restroom Services,toilet clogged,Null,7/22/2022,11:00:00,7/22/2022,11:25:00
+Basement,Restroom Services,out of hand soap in both restrooms,Null,7/25/2022,11:25:00,7/25/2022,11:50:00
+Basement,Trash/Recycling,cleaning out a storage area on the south side,Null,7/26/2022,11:50:00,7/26/2022,12:00:00
+Basement,Trash/Recycling,trash is full,Null,7/27/2022,12:00:00,7/27/2022,12:15:00
+Basement,Trash/Recycling,something stinky in the trash,Null,7/19/2022,12:15:00,7/19/2022,12:45:00
+1st Floor,Heating/Cooling,it's cold,Null,7/20/2022,Null,7/20/2022,13:00:00
+1st Floor,Heating/Cooling,it's freezing,Null,7/21/2022,Null,7/21/2022,13:15:00
+1st Floor,Heating/Cooling,it's really hot,Null,7/22/2022,13:15:00,7/22/2022,14:05:00
+1st Floor,Heating/Cooling,air is not working,Null,7/25/2022,14:05:00,7/25/2022,14:25:00
+1st Floor,Lightbulb replacement,light out above my desk,Null,7/26/2022,14:25:00,7/26/2022,14:30:00
+1st Floor,Lightbulb replacement,light is flickering in the conference room,Null,7/27/2022,14:30:00,7/27/2022,14:50:00
+1st Floor,Lightbulb replacement,automatic lights are not working in the bathroom,Null,7/19/2022,14:50:00,7/19/2022,Null
+3rd Floor,Restroom Services,out of toilet paper,Null,7/20/2022,15:25:00,7/20/2022,Null
+3rd Floor,Restroom Services,mess in the men's room,Null,Null,15:40:00,7/21/2022,15:55:00
+3rd Floor,Restroom Services,mess in the women's room,Null,Null,15:55:00,7/22/2022,16:10:00
+3rd Floor,Restroom Services,out of toilet paper,Null,7/25/2022,16:10:00,7/25/2022,16:15:00
+3rd Floor,Restroom Services,toilet clogged,Null,7/26/2022,16:15:00,7/26/2022,16:50:00
+3rd Floor,Restroom Services,out of hand soap in both restrooms,Null,7/27/2022,16:50:00,7/28/2022,10:00:00
+3rd Floor,Trash/Recycling,cleaning out a storage area on the south side,Null,7/19/2022,10:00:00,7/19/2022,10:15:00
+3rd Floor,Trash/Recycling,trash is full,Null,7/20/2022,10:15:00,7/20/2022,10:40:00
+3rd Floor,Trash/Recycling,something stinky in the trash,Null,7/21/2022,10:40:00,Null,11:00:00
+3rd Floor,Heating/Cooling,it's cold,Null,7/22/2022,11:00:00,7/22/2022,11:25:00
+4th Floor,Heating/Cooling,it's freezing,Null,7/25/2022,11:25:00,7/25/2022,11:50:00
+4th Floor,Heating/Cooling,it's really hot,Null,7/26/2022,11:50:00,7/26/2022,12:00:00
+4th Floor,Heating/Cooling,air is not working,Null,7/27/2022,12:00:00,7/27/2022,12:15:00
+4th Floor,Lightbulb replacement,light out above my desk,Null,7/19/2022,12:15:00,7/19/2022,12:45:00
+4th Floor,Lightbulb replacement,light is flickering in the conference room,Null,7/20/2022,12:45:00,Null,13:00:00
+4th Floor,Lightbulb replacement,automatic lights are not working in the bathroom,Null,7/21/2022,13:00:00,7/21/2022,13:15:00
+4th Floor,Restroom Services,out of toilet paper,Null,7/22/2022,13:15:00,7/22/2022,14:05:00
+4th Floor,Restroom Services,mess in the men's room,Null,7/25/2022,14:05:00,7/25/2022,14:25:00
+4th Floor,Restroom Services,mess in the women's room,Null,7/26/2022,14:25:00,7/26/2022,14:30:00
+4th Floor,Restroom Services,out of toilet paper,Null,Null,14:30:00,7/27/2022,14:50:00
+4th Floor,Restroom Services,toilet clogged,Null,7/19/2022,14:50:00,7/19/2022,Null
+4th Floor,Restroom Services,out of hand soap in both restrooms,Null,7/20/2022,15:25:00,7/20/2022,15:40:00
+5th Floor,Trash/Recycling,cleaning out a storage area on the south side,Null,7/21/2022,15:40:00,7/21/2022,15:55:00
+5th Floor,Trash/Recycling,trash is full,Null,7/22/2022,15:55:00,7/22/2022,16:10:00
+5th Floor,Trash/Recycling,something stinky in the trash,Null,7/25/2022,16:10:00,7/25/2022,16:15:00
+5th Floor,Heating/Cooling,it's cold,Null,7/26/2022,16:15:00,7/26/2022,16:50:00
+5th Floor,Heating/Cooling,it's freezing,Null,7/27/2022,16:50:00,7/27/2022,10:00:00
+5th Floor,Heating/Cooling,it's really hot,Null,7/19/2022,Null,Null,10:15:00
+5th Floor,Heating/Cooling,air is not working,Null,7/20/2022,10:15:00,7/20/2022,10:40:00
+5th Floor,Lightbulb replacement,light out above my desk,Null,7/21/2022,10:40:00,7/21/2022,11:00:00
+6th Floor,Lightbulb replacement,light is flickering in the conference room,Null,7/22/2022,11:00:00,7/22/2022,11:25:00
+6th Floor,Lightbulb replacement,automatic lights are not working in the bathroom,Null,7/25/2022,11:25:00,7/25/2022,11:50:00
+6th Floor,Restroom Services,out of toilet paper,Null,7/26/2022,11:50:00,7/26/2022,Null
+6th Floor,Restroom Services,mess in the men's room,Null,7/27/2022,12:00:00,7/27/2022,12:15:00
+6th Floor,Restroom Services,mess in the women's room,Null,7/19/2022,12:15:00,7/19/2022,12:45:00
+6th Floor,Restroom Services,out of toilet paper,Null,Null,12:45:00,7/20/2022,13:00:00
+6th Floor,Restroom Services,toilet clogged,Null,Null,13:00:00,7/21/2022,13:15:00
+6th Floor,Restroom Services,out of hand soap in both restrooms,Null,7/22/2022,13:15:00,7/22/2022,14:05:00
+6th Floor,Trash/Recycling,cleaning out a storage area on the south side,Null,7/25/2022,14:05:00,7/25/2022,14:25:00
+6th Floor,Trash/Recycling,trash is full,Null,7/26/2022,14:25:00,7/26/2022,14:30:00
+6th Floor,Trash/Recycling,something stinky in the trash,Null,7/27/2022,14:30:00,Null,14:50:00
+1st Floor,Trash/Recycling,cleaning out a storage area on the south side,Null,7/26/2022,10:00:00,7/26/2022,11:00:00
+Basement,Trash/Recycling,trash is full,Null,7/27/2022,10:15:00,7/27/2022,11:25:00
+Basement,Trash/Recycling,something stinky in the trash,Null,7/19/2022,10:40:00,7/19/2022,11:50:00
+Basement,Heating/Cooling,it's cold,Null,7/20/2022,11:00:00,7/20/2022,Null
+Basement,Heating/Cooling,it's freezing,Null,Null,11:25:00,7/21/2022,12:15:00
+Basement,Heating/Cooling,it's really hot,Null,7/22/2022,11:50:00,7/22/2022,12:45:00
+Basement,Heating/Cooling,air is not working,Null,7/25/2022,12:00:00,7/25/2022,13:00:00
+Basement,Lightbulb replacement,light out above my desk,Null,7/26/2022,12:15:00,7/26/2022,13:15:00
+Basement,Lightbulb replacement,light is flickering in the conference room,Null,7/27/2022,12:45:00,7/27/2022,14:05:00
+1st Floor,Lightbulb replacement,automatic lights are not working in the bathroom,Null,7/19/2022,Null,7/19/2022,14:25:00
+1st Floor,Restroom Services,out of toilet paper,Null,7/20/2022,13:15:00,7/20/2022,14:30:00
+1st Floor,Restroom Services,mess in the men's room,Null,7/21/2022,14:05:00,7/21/2022,10:00:00
+1st Floor,Restroom Services,mess in the women's room,Null,7/22/2022,14:25:00,7/22/2022,10:15:00
+1st Floor,Restroom Services,out of toilet paper,Null,7/25/2022,14:30:00,7/25/2022,10:40:00
+1st Floor,Restroom Services,toilet clogged,Null,7/26/2022,10:00:00,7/26/2022,Nll
+1st Floor,Restroom Services,out of hand soap in both restrooms,Null,7/27/2022,10:15:00,7/27/2022,11:25:00
+3rd Floor,Trash/Recycling,cleaning out a storage area on the south side,Null,7/26/2022,10:40:00,7/26/2022,11:50:00
+3rd Floor,Trash/Recycling,trash is full,Null,7/27/2022,11:00:00,7/27/2022,12:00:00
+3rd Floor,Trash/Recycling,something stinky in the trash,Null,7/19/2022,11:25:00,Null,12:15:00
+3rd Floor,Heating/Cooling,it's cold,Null,7/20/2022,11:50:00,7/20/2022,12:45:00
+3rd Floor,Heating/Cooling,it's freezing,Null,7/21/2022,12:00:00,7/21/2022,13:00:00
+3rd Floor,Heating/Cooling,it's really hot,Null,7/22/2022,12:15:00,7/22/2022,13:15:00
+3rd Floor,Heating/Cooling,air is not working,Null,Null,12:45:00,7/25/2022,14:05:00
+3rd Floor,Lightbulb replacement,light out above my desk,Null,7/26/2022,13:00:00,7/26/2022,14:25:00
+3rd Floor,Lightbulb replacement,light is flickering in the conference room,Null,7/27/2022,13:15:00,7/27/2022,Null
+3rd Floor,Lightbulb replacement,automatic lights are not working in the bathroom,Null,7/19/2022,14:05:00,7/19/2022,10:00:00
+4th Floor,Restroom Services,out of toilet paper,Null,7/20/2022,14:25:00,7/20/2022,10:15:00
+4th Floor,Restroom Services,mess in the men's room,Null,7/21/2022,14:30:00,7/21/2022,10:40:00
+4th Floor,Restroom Services,mess in the women's room,Null,7/22/2022,10:00:00,7/22/2022,11:00:00
+4th Floor,Restroom Services,out of toilet paper,Null,7/25/2022,Null,7/25/2022,11:25:00
+4th Floor,Restroom Services,toilet clogged,Null,7/26/2022,10:40:00,7/26/2022,11:50:00
+4th Floor,Restroom Services,out of hand soap in both restrooms,Null,7/27/2022,11:00:00,7/27/2022,12:00:00
+4th Floor,Trash/Recycling,cleaning out a storage area on the south side,Null,7/26/2022,11:25:00,7/26/2022,12:15:00
+4th Floor,Trash/Recycling,trash is full,Null,7/27/2022,11:50:00,7/27/2022,Null
+4th Floor,Trash/Recycling,something stinky in the trash,Null,7/19/2022,12:00:00,7/19/2022,13:00:00
+4th Floor,Heating/Cooling,it's cold,Null,7/20/2022,12:15:00,7/20/2022,13:15:00
+4th Floor,Heating/Cooling,it's freezing,Null,7/21/2022,12:45:00,7/21/2022,14:05:00
+4th Floor,Heating/Cooling,it's really hot,Null,7/22/2022,13:00:00,7/22/2022,14:25:00
+5th Floor,Heating/Cooling,air is not working,Null,7/25/2022,13:15:00,Null,14:30:00
+5th Floor,Lightbulb replacement,light out above my desk,Null,7/26/2022,14:05:00,7/26/2022,10:00:00
+5th Floor,Lightbulb replacement,light is flickering in the conference room,Null,7/27/2022,14:25:00,7/27/2022,10:15:00
+5th Floor,Lightbulb replacement,automatic lights are not working in the bathroom,Null,7/19/2022,14:30:00,7/19/2022,10:40:00
+5th Floor,Restroom Services,out of toilet paper,Null,7/20/2022,10:00:00,7/20/2022,11:00:00
+5th Floor,Restroom Services,mess in the men's room,Null,7/21/2022,10:15:00,7/21/2022,11:25:00
+5th Floor,Restroom Services,mess in the women's room,Null,Null,10:40:00,7/22/2022,11:50:00
+5th Floor,Restroom Services,out of toilet paper,Null,7/25/2022,11:00:00,7/25/2022,12:00:00
+6th Floor,Restroom Services,toilet clogged,Null,7/26/2022,11:25:00,7/26/2022,12:15:00
+6th Floor,Restroom Services,out of hand soap in both restrooms,Null,7/27/2022,11:50:00,7/27/2022,12:45:00
+6th Floor,Trash/Recycling,cleaning out a storage area on the south side,Null,7/26/2022,12:00:00,7/26/2022,13:00:00
+6th Floor,Trash/Recycling,trash is full,Null,7/27/2022,12:15:00,7/27/2022,13:15:00
+6th Floor,Trash/Recycling,something stinky in the trash,Null,7/19/2022,Null,7/19/2022,14:05:00
+6th Floor,Heating/Cooling,it's cold,Null,7/20/2022,Null,7/20/2022,14:25:00
+6th Floor,Heating/Cooling,it's freezing,Null,7/21/2022,13:15:00,7/21/2022,14:30:00
+6th Floor,Heating/Cooling,it's really hot,Null,7/22/2022,14:05:00,7/22/2022,10:00:00
+6th Floor,Heating/Cooling,air is not working,Null,7/25/2022,14:25:00,7/25/2022,10:15:00
+6th Floor,Lightbulb replacement,light out above my desk,Null,7/26/2022,14:30:00,7/26/2022,Null
+6th Floor,Lightbulb replacement,light is flickering in the conference room,Null,Null,10:00:00,7/27/2022,11:00:00
+3rd Floor,Lightbulb replacement,automatic lights are not working in the bathroom,Null,7/19/2022,10:15:00,7/19/2022,11:25:00
+4th Floor,Restroom Services,out of toilet paper,Null,7/20/2022,10:40:00,7/20/2022,11:50:00
+5th Floor,Restroom Services,mess in the men's room,Null,7/21/2022,11:00:00,Null,12:00:00
+6th Floor,Restroom Services,mess in the women's room,Null,7/22/2022,11:25:00,7/22/2022,12:15:00
+1st Floor,Restroom Services,out of toilet paper,Null,7/25/2022,11:50:00,7/25/2022,12:15:00
+5th Floor,Restroom Services,toilet clogged,Null,7/26/2022,12:00:00,7/26/2022,12:15:00
+Basement,Restroom Services,out of hand soap in both restrooms,Null,7/27/2022,12:15:00,7/27/2022,13:00:00
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

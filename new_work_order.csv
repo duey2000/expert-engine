@@ -1,0 +1,301 @@
+floor,service,details,date_submitted,time_submitted,date_completed,time_completed
+Basement,Restroom Services,mess in the mens room,2022-07-01,10:00:00,2022-07-19,10:15:00
+Basement,Restroom Services,mess in the mens room,2022-07-19,10:00:00,2022-07-19,10:15:00
+Basement,Restroom Services,mess in the womens room,2022-07-20,10:15:00,2022-07-20,10:40:00
+Basement,Restroom Services,out of toilet paper,2022-07-20,10:40:00,2022-07-20,11:00:00
+Basement,Restroom Services,toilet clogged,2022-07-21,11:00:00,2022-07-21,11:25:00
+Basement,Restroom Services,out of hand soap in both restrooms,2022-07-21,11:25:00,2022-07-21,11:50:00
+Basement,Trash/Recycling,cleaning out a storage area on the south side,2022-07-21,11:50:00,2022-07-21,12:00:00
+Basement,Trash/Recycling,trash is full,2022-07-22,12:00:00,2022-07-22,12:15:00
+Basement,Trash/Recycling,something stinky in the trash,2022-07-22,12:15:00,2022-07-22,12:45:00
+1st Floor,Heating/Cooling,its cold,2022-07-22,12:30:00,2022-07-22,13:00:00
+1st Floor,Heating/Cooling,its freezing,2022-07-25,12:45:00,2022-07-25,13:15:00
+1st Floor,Heating/Cooling,its really hot,2022-07-25,13:15:00,2022-07-25,14:05:00
+1st Floor,Heating/Cooling,air is not working,2022-07-25,14:05:00,2022-07-25,14:25:00
+1st Floor,Lightbulb replacement,light out above my desk,2022-07-26,14:25:00,2022-07-26,14:30:00
+1st Floor,Lightbulb replacement,light is flickering in the conference room,2022-07-26,14:30:00,2022-07-26,14:50:00
+1st Floor,Lightbulb replacement,automatic lights are not working in the bathroom,2022-07-26,14:50:00,2022-07-26,15:00:00
+3rd Floor,Restroom Services,out of toilet paper,2022-07-27,15:25:00,2022-07-27,16:00:00
+3rd Floor,Restroom Services,mess in the mens room,2022-07-27,15:40:00,2022-07-27,15:55:00
+3rd Floor,Restroom Services,mess in the womens room,2022-07-27,15:55:00,2022-07-27,16:10:00
+3rd Floor,Restroom Services,out of toilet paper,2022-07-27,16:10:00,2022-07-27,16:15:00
+3rd Floor,Restroom Services,toilet clogged,2022-07-19,16:15:00,2022-07-19,16:50:00
+3rd Floor,Restroom Services,out of hand soap in both restrooms,2022-07-19,16:50:00,2022-07-19,10:00:00
+3rd Floor,Trash/Recycling,cleaning out a storage area on the south side,2022-07-19,10:00:00,2022-07-19,10:15:00
+3rd Floor,Trash/Recycling,trash is full,2022-07-20,10:15:00,2022-07-20,10:40:00
+3rd Floor,Trash/Recycling,something stinky in the trash,2022-07-20,10:40:00,2022-07-20,11:00:00
+3rd Floor,Heating/Cooling,its cold,2022-07-21,11:00:00,2022-07-21,11:25:00
+4th Floor,Heating/Cooling,its freezing,2022-07-21,11:25:00,2022-07-21,11:50:00
+4th Floor,Heating/Cooling,its really hot,2022-07-21,11:50:00,2022-07-21,12:00:00
+4th Floor,Heating/Cooling,air is not working,2022-07-22,12:00:00,2022-07-22,12:15:00
+4th Floor,Lightbulb replacement,light out above my desk,2022-07-22,12:15:00,2022-07-22,12:45:00
+4th Floor,Lightbulb replacement,light is flickering in the conference room,2022-07-22,12:45:00,2022-07-22,13:00:00
+4th Floor,Lightbulb replacement,automatic lights are not working in the bathroom,2022-07-25,13:00:00,2022-07-25,13:15:00
+4th Floor,Restroom Services,out of toilet paper,2022-07-25,13:15:00,2022-07-25,14:05:00
+4th Floor,Restroom Services,mess in the mens room,2022-07-25,14:05:00,2022-07-25,14:25:00
+4th Floor,Restroom Services,mess in the womens room,2022-07-26,14:25:00,2022-07-26,14:30:00
+4th Floor,Restroom Services,out of toilet paper,2022-07-26,14:30:00,2022-07-26,14:50:00
+4th Floor,Restroom Services,toilet clogged,2022-07-26,14:50:00,2022-07-26,15:00:00
+4th Floor,Restroom Services,out of hand soap in both restrooms,2022-07-27,15:25:00,2022-07-27,15:40:00
+5th Floor,Trash/Recycling,cleaning out a storage area on the south side,2022-07-27,15:40:00,2022-07-27,15:55:00
+5th Floor,Trash/Recycling,trash is full,2022-07-27,15:55:00,2022-07-27,16:10:00
+5th Floor,Trash/Recycling,something stinky in the trash,2022-07-27,16:10:00,2022-07-27,16:15:00
+5th Floor,Heating/Cooling,its cold,2022-07-19,16:15:00,2022-07-19,16:50:00
+5th Floor,Heating/Cooling,its freezing,2022-07-19,16:50:00,2022-07-19,10:00:00
+5th Floor,Heating/Cooling,its really hot,2022-07-19,10:00:00,2022-07-19,10:15:00
+5th Floor,Heating/Cooling,air is not working,2022-07-20,10:15:00,2022-07-20,10:40:00
+5th Floor,Lightbulb replacement,light out above my desk,2022-07-20,10:40:00,2022-07-20,11:00:00
+6th Floor,Lightbulb replacement,light is flickering in the conference room,2022-07-21,11:00:00,2022-07-21,11:25:00
+6th Floor,Lightbulb replacement,automatic lights are not working in the bathroom,2022-07-21,11:25:00,2022-07-21,11:50:00
+6th Floor,Restroom Services,out of toilet paper,2022-07-21,11:50:00,2022-07-21,12:00:00
+6th Floor,Restroom Services,mess in the mens room,2022-07-22,12:00:00,2022-07-22,12:15:00
+6th Floor,Restroom Services,mess in the womens room,2022-07-22,12:15:00,2022-07-22,12:45:00
+6th Floor,Restroom Services,out of toilet paper,2022-07-22,12:45:00,2022-07-22,13:00:00
+6th Floor,Restroom Services,toilet clogged,2022-07-25,13:00:00,2022-07-25,13:15:00
+6th Floor,Restroom Services,out of hand soap in both restrooms,2022-07-25,13:15:00,2022-07-25,14:05:00
+6th Floor,Trash/Recycling,cleaning out a storage area on the south side,2022-07-25,14:05:00,2022-07-25,14:25:00
+6th Floor,Trash/Recycling,trash is full,2022-07-26,14:25:00,2022-07-26,14:30:00
+6th Floor,Trash/Recycling,something stinky in the trash,2022-07-26,14:30:00,2022-07-26,14:50:00
+1st Floor,Trash/Recycling,cleaning out a storage area on the south side,2022-07-26,10:00:00,2022-07-26,11:00:00
+Basement,Trash/Recycling,trash is full,2022-07-27,10:15:00,2022-07-27,11:25:00
+Basement,Trash/Recycling,something stinky in the trash,2022-07-27,10:40:00,2022-07-27,11:50:00
+Basement,Heating/Cooling,its cold,2022-07-27,11:00:00,2022-07-27,11:40:00
+Basement,Heating/Cooling,its freezing,2022-07-27,11:25:00,2022-07-27,12:15:00
+Basement,Heating/Cooling,its really hot,2022-07-19,11:50:00,2022-07-19,12:45:00
+Basement,Heating/Cooling,air is not working,2022-07-19,12:00:00,2022-07-19,13:00:00
+Basement,Lightbulb replacement,light out above my desk,2022-07-19,12:15:00,2022-07-19,13:15:00
+Basement,Lightbulb replacement,light is flickering in the conference room,2022-07-20,12:45:00,2022-07-20,14:05:00
+1st Floor,Lightbulb replacement,automatic lights are not working in the bathroom,2022-07-20,13:00:00,2022-07-20,14:25:00
+1st Floor,Restroom Services,out of toilet paper,2022-07-21,13:15:00,2022-07-21,14:30:00
+1st Floor,Restroom Services,mess in the mens room,2022-07-21,14:05:00,2022-07-21,10:00:00
+1st Floor,Restroom Services,mess in the womens room,2022-07-21,14:25:00,2022-07-21,10:15:00
+1st Floor,Restroom Services,out of toilet paper,2022-07-22,14:30:00,2022-07-22,10:40:00
+1st Floor,Restroom Services,toilet clogged,2022-07-22,10:00:00,2022-07-22,10:30:00
+1st Floor,Restroom Services,out of hand soap in both restrooms,2022-07-22,10:15:00,2022-07-22,11:25:00
+3rd Floor,Trash/Recycling,cleaning out a storage area on the south side,2022-07-25,10:40:00,2022-07-25,11:50:00
+3rd Floor,Trash/Recycling,trash is full,2022-07-25,11:00:00,2022-07-25,12:00:00
+3rd Floor,Trash/Recycling,something stinky in the trash,2022-07-25,11:25:00,2022-07-25,12:15:00
+3rd Floor,Heating/Cooling,its cold,2022-07-26,11:50:00,2022-07-26,12:45:00
+3rd Floor,Heating/Cooling,its freezing,2022-07-26,12:00:00,2022-07-26,13:00:00
+3rd Floor,Heating/Cooling,its really hot,2022-07-26,12:15:00,2022-07-26,13:15:00
+3rd Floor,Heating/Cooling,air is not working,2022-07-27,12:45:00,2022-07-27,14:05:00
+3rd Floor,Lightbulb replacement,light out above my desk,2022-07-27,13:00:00,2022-07-27,14:25:00
+3rd Floor,Lightbulb replacement,light is flickering in the conference room,2022-07-27,13:15:00,2022-07-27,14:00:00
+3rd Floor,Lightbulb replacement,automatic lights are not working in the bathroom,2022-07-27,14:05:00,2022-07-27,10:00:00
+4th Floor,Restroom Services,out of toilet paper,2022-07-19,14:25:00,2022-07-19,10:15:00
+4th Floor,Restroom Services,mess in the mens room,2022-07-19,14:30:00,2022-07-19,10:40:00
+4th Floor,Restroom Services,mess in the womens room,2022-07-19,10:00:00,2022-07-19,11:00:00
+4th Floor,Restroom Services,out of toilet paper,2022-07-20,10:30:00,2022-07-20,11:25:00
+4th Floor,Restroom Services,toilet clogged,2022-07-20,10:40:00,2022-07-20,11:50:00
+4th Floor,Restroom Services,out of hand soap in both restrooms,2022-07-21,11:00:00,2022-07-21,12:00:00
+4th Floor,Trash/Recycling,cleaning out a storage area on the south side,2022-07-21,11:25:00,2022-07-21,12:15:00
+4th Floor,Trash/Recycling,trash is full,2022-07-21,11:50:00,2022-07-21,12:30:00
+4th Floor,Trash/Recycling,something stinky in the trash,2022-07-22,12:00:00,2022-07-22,13:00:00
+4th Floor,Heating/Cooling,its cold,2022-07-22,12:15:00,2022-07-22,13:15:00
+4th Floor,Heating/Cooling,its freezing,2022-07-22,12:45:00,2022-07-22,14:05:00
+4th Floor,Heating/Cooling,its really hot,2022-07-25,13:00:00,2022-07-25,14:25:00
+5th Floor,Heating/Cooling,air is not working,2022-07-25,13:15:00,2022-07-25,14:30:00
+5th Floor,Lightbulb replacement,light out above my desk,2022-07-25,14:05:00,2022-07-25,10:00:00
+5th Floor,Lightbulb replacement,light is flickering in the conference room,2022-07-26,14:25:00,2022-07-26,10:15:00
+5th Floor,Lightbulb replacement,automatic lights are not working in the bathroom,2022-07-26,14:30:00,2022-07-26,10:40:00
+5th Floor,Restroom Services,out of toilet paper,2022-07-26,10:00:00,2022-07-26,11:00:00
+5th Floor,Restroom Services,mess in the mens room,2022-07-27,10:15:00,2022-07-27,11:25:00
+5th Floor,Restroom Services,mess in the womens room,2022-07-27,10:40:00,2022-07-27,11:50:00
+5th Floor,Restroom Services,out of toilet paper,2022-07-27,11:00:00,2022-07-27,12:00:00
+6th Floor,Restroom Services,toilet clogged,2022-07-27,11:25:00,2022-07-27,12:15:00
+6th Floor,Restroom Services,out of hand soap in both restrooms,2022-07-19,11:50:00,2022-07-19,12:45:00
+6th Floor,Trash/Recycling,cleaning out a storage area on the south side,2022-07-19,12:00:00,2022-07-19,13:00:00
+6th Floor,Trash/Recycling,trash is full,2022-07-19,12:15:00,2022-07-19,13:15:00
+6th Floor,Trash/Recycling,something stinky in the trash,2022-07-20,12:30:00,2022-07-20,14:05:00
+6th Floor,Heating/Cooling,its cold,2022-07-20,12:45:00,2022-07-20,14:25:00
+6th Floor,Heating/Cooling,its freezing,2022-07-21,13:15:00,2022-07-21,14:30:00
+6th Floor,Heating/Cooling,its really hot,2022-07-21,14:05:00,2022-07-21,10:00:00
+6th Floor,Heating/Cooling,air is not working,2022-07-21,14:25:00,2022-07-21,10:15:00
+6th Floor,Lightbulb replacement,light out above my desk,2022-07-22,14:30:00,2022-07-22,14:50:00
+6th Floor,Lightbulb replacement,light is flickering in the conference room,2022-07-22,10:00:00,2022-07-22,11:00:00
+3rd Floor,Lightbulb replacement,automatic lights are not working in the bathroom,2022-07-22,10:15:00,2022-07-22,11:25:00
+4th Floor,Restroom Services,out of toilet paper,2022-07-25,10:40:00,2022-07-25,11:50:00
+5th Floor,Restroom Services,mess in the mens room,2022-07-25,11:00:00,2022-07-25,12:00:00
+6th Floor,Restroom Services,mess in the womens room,2022-07-25,11:25:00,2022-07-25,12:15:00
+1st Floor,Restroom Services,out of toilet paper,2022-07-26,11:50:00,2022-07-26,12:15:00
+5th Floor,Restroom Services,toilet clogged,2022-07-26,12:00:00,2022-07-26,12:15:00
+Basement,Restroom Services,out of hand soap in both restrooms,2022-07-26,12:15:00,2022-07-26,13:00:00
+1st Floor,Restroom Services,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+1st Floor,Restroom Services,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+1st Floor,Restroom Services,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+1st Floor,Restroom Services,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+1st Floor,Restroom Services,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+1st Floor,Restroom Services,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+1st Floor,Restroom Services,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+1st Floor,Trash/Recycling,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+1st Floor,Trash/Recycling,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+1st Floor,Trash/Recycling,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+1st Floor,Trash/Recycling,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+1st Floor,Trash/Recycling,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+1st Floor,Trash/Recycling,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+1st Floor,Trash/Recycling,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+1st Floor,Heating/Cooling,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+1st Floor,Heating/Cooling,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+1st Floor,Heating/Cooling,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+1st Floor,Heating/Cooling,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+1st Floor,Heating/Cooling,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+1st Floor,Heating/Cooling,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+1st Floor,Heating/Cooling,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+1st Floor,Lightbulb replacement,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+1st Floor,Lightbulb replacement,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+1st Floor,Lightbulb replacement,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+1st Floor,Lightbulb replacement,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+1st Floor,Lightbulb replacement,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+1st Floor,Lightbulb replacement,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+1st Floor,Lightbulb replacement,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+3rd Floor,Restroom Services,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+3rd Floor,Restroom Services,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+3rd Floor,Restroom Services,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+3rd Floor,Restroom Services,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+3rd Floor,Restroom Services,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+3rd Floor,Restroom Services,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+3rd Floor,Restroom Services,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+3rd Floor,Trash/Recycling,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+3rd Floor,Trash/Recycling,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+3rd Floor,Trash/Recycling,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+3rd Floor,Trash/Recycling,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+3rd Floor,Trash/Recycling,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+3rd Floor,Trash/Recycling,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+3rd Floor,Trash/Recycling,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+3rd Floor,Heating/Cooling,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+3rd Floor,Heating/Cooling,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+3rd Floor,Heating/Cooling,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+3rd Floor,Heating/Cooling,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+3rd Floor,Heating/Cooling,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+3rd Floor,Heating/Cooling,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+3rd Floor,Heating/Cooling,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+3rd Floor,Lightbulb replacement,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+3rd Floor,Lightbulb replacement,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+3rd Floor,Lightbulb replacement,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+3rd Floor,Lightbulb replacement,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+3rd Floor,Lightbulb replacement,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+3rd Floor,Lightbulb replacement,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+3rd Floor,Lightbulb replacement,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+4th Floor,Restroom Services,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+4th Floor,Restroom Services,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+4th Floor,Restroom Services,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+4th Floor,Restroom Services,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+4th Floor,Restroom Services,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+4th Floor,Restroom Services,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+4th Floor,Restroom Services,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+4th Floor,Trash/Recycling,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+4th Floor,Trash/Recycling,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+4th Floor,Trash/Recycling,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+4th Floor,Trash/Recycling,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+4th Floor,Trash/Recycling,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+4th Floor,Trash/Recycling,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+4th Floor,Trash/Recycling,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+4th Floor,Heating/Cooling,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+4th Floor,Heating/Cooling,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+4th Floor,Heating/Cooling,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+4th Floor,Heating/Cooling,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+4th Floor,Heating/Cooling,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+4th Floor,Heating/Cooling,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+4th Floor,Heating/Cooling,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+4th Floor,Lightbulb replacement,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+4th Floor,Lightbulb replacement,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+4th Floor,Lightbulb replacement,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+4th Floor,Lightbulb replacement,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+4th Floor,Lightbulb replacement,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+4th Floor,Lightbulb replacement,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+4th Floor,Lightbulb replacement,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+5th Floor,Restroom Services,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+5th Floor,Restroom Services,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+5th Floor,Restroom Services,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+5th Floor,Restroom Services,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+5th Floor,Restroom Services,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+5th Floor,Restroom Services,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+5th Floor,Restroom Services,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+5th Floor,Trash/Recycling,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+5th Floor,Trash/Recycling,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+5th Floor,Trash/Recycling,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+5th Floor,Trash/Recycling,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+5th Floor,Trash/Recycling,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+5th Floor,Trash/Recycling,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+5th Floor,Trash/Recycling,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+5th Floor,Heating/Cooling,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+5th Floor,Heating/Cooling,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+5th Floor,Heating/Cooling,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+5th Floor,Heating/Cooling,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+5th Floor,Heating/Cooling,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+5th Floor,Heating/Cooling,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+5th Floor,Heating/Cooling,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+5th Floor,Lightbulb replacement,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+5th Floor,Lightbulb replacement,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+5th Floor,Lightbulb replacement,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+5th Floor,Lightbulb replacement,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+5th Floor,Lightbulb replacement,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+5th Floor,Lightbulb replacement,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+5th Floor,Lightbulb replacement,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+6th Floor,Restroom Services,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+6th Floor,Restroom Services,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+6th Floor,Restroom Services,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+6th Floor,Restroom Services,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+6th Floor,Restroom Services,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+6th Floor,Restroom Services,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+6th Floor,Restroom Services,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+6th Floor,Trash/Recycling,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+6th Floor,Trash/Recycling,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+6th Floor,Trash/Recycling,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+6th Floor,Trash/Recycling,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+6th Floor,Trash/Recycling,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+6th Floor,Trash/Recycling,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+6th Floor,Trash/Recycling,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+6th Floor,Heating/Cooling,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+6th Floor,Heating/Cooling,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+6th Floor,Heating/Cooling,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+6th Floor,Heating/Cooling,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+6th Floor,Heating/Cooling,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+6th Floor,Heating/Cooling,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+6th Floor,Heating/Cooling,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+6th Floor,Lightbulb replacement,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+6th Floor,Lightbulb replacement,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+6th Floor,Lightbulb replacement,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+6th Floor,Lightbulb replacement,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+6th Floor,Lightbulb replacement,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+6th Floor,Lightbulb replacement,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+6th Floor,Lightbulb replacement,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+Basement,Restroom Services,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+Basement,Restroom Services,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+Basement,Restroom Services,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+Basement,Restroom Services,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+Basement,Restroom Services,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+Basement,Restroom Services,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+Basement,Restroom Services,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+Basement,Trash/Recycling,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+Basement,Trash/Recycling,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+Basement,Trash/Recycling,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+Basement,Trash/Recycling,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+Basement,Trash/Recycling,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+Basement,Trash/Recycling,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+Basement,Trash/Recycling,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+Basement,Heating/Cooling,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+Basement,Heating/Cooling,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+Basement,Heating/Cooling,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+Basement,Heating/Cooling,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+Basement,Heating/Cooling,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+Basement,Heating/Cooling,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+Basement,Heating/Cooling,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+Basement,Lightbulb replacement,No details given,2022-07-19,00:00:00,2022-07-19,00:00:00
+Basement,Lightbulb replacement,No details given,2022-07-20,00:00:00,2022-07-20,00:00:00
+Basement,Lightbulb replacement,No details given,2022-07-21,00:00:00,2022-07-21,00:00:00
+Basement,Lightbulb replacement,No details given,2022-07-22,00:00:00,2022-07-22,00:00:00
+Basement,Lightbulb replacement,No details given,2022-07-25,00:00:00,2022-07-25,00:00:00
+Basement,Lightbulb replacement,No details given,2022-07-26,00:00:00,2022-07-26,00:00:00
+Basement,Lightbulb replacement,No details given,2022-07-27,00:00:00,2022-07-27,00:00:00
+1st Floor,Trash/Recycling,dfad,2022-07-25,14:03:00,2022-07-28,00:00:00
+4th Floor,Restroom Services,0,2022-07-25,14:04:00,2022-07-28,00:00:00
+1st Floor,Trash/Recycling,a ton of boxes by the bathrooms needs picked up,2022-07-25,14:05:00,2022-07-28,00:00:00
+6th Floor,Restroom Services,please clean restrooms before heart association dinner,2022-07-25,14:06:00,2022-07-28,00:00:00
+4th Floor,Lightbulb replacement,0,2022-07-25,14:09:00,2022-07-28,00:00:00
+1st Floor,Trash/Recycling,trash on ground outside,2022-07-25,14:13:00,2022-07-28,00:00:00
+1st Floor,Restroom Services, ,2022-07-27,10:00:00,2022-07-28,00:00:00
+5th Floor,Heating/Cooling,need the temp turned up,2022-07-27,09:41:00,2022-07-28,00:00:00
+3rd Floor,Restroom Services,toilet clogged,2022-07-27,10:04:00,2022-07-28,00:00:00
+1st Floor,Heating/Cooling,afdfdafd,2022-07-27,12:54:00,2022-07-28,00:00:00
+Basement,Restroom Services,out of toilet paper,2022-07-27,13:03:50,2022-07-28,00:00:00
