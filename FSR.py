@@ -1,4 +1,3 @@
-
 import PySimpleGUI as sg
 import sys
 import psycopg2
